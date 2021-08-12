@@ -1,2 +1,6 @@
-User-agent: SiteCheckerBotCrawler
+User-agent: *
 Disallow: /
+
+#Sitemap
+
+Sitemap: https://lafond54.github.io/LafondAndy_4_02082021/sitemap.txt
