@@ -1042,3 +1042,13 @@ h4 {
         text-align: center;
     }
 }
+
+.citation {
+    padding-left: 7rem;
+    padding-right: 7rem;
+    font-style: italic;
+}
+
+.citation2 {
+    font-size: 2.5rem;
+}
