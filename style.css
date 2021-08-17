@@ -644,6 +644,8 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    height: 270px;
+    width: 270px;
 }
 
 .portfolio-row {
@@ -777,6 +779,12 @@ h4 {
 }
 
 @media (max-width: 767px) {
+    .portfolio-thumb {
+        margin-bottom: 24px;
+        height: 320px;
+        width: 320px;
+        margin: auto;
+    }
     .page-container {
         overflow-x: hidden;
         position: relative;
